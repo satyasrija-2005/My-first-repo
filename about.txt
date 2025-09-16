@@ -1,1 +1,5 @@
 about
+
+ My name is Satya srija pati
+i am currently studing BCA in Aditya
+i have learnd about github in program of devops 
